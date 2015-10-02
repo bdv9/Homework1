@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Homework 1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="name">Benjamin VanDijk</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+
+    <string name="size">Large Device!</string>
+</resources>
